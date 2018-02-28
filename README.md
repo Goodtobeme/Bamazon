@@ -18,6 +18,9 @@ The BamazonCustomer app lets a customer place an order from the store. There is 
 
 
 
+This is the departments
+
+
 
 
 
@@ -27,5 +30,6 @@ The BamazonCustomer app lets a customer place an order from the store. There is 
 
 
 This is the purchase
+
 
 
